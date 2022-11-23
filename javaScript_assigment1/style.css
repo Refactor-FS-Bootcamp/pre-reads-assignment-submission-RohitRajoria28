@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(184, 202, 235);
+}
+
+.main{
+
+}     
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.sub-main{
+    padding: 40px;
+    border: 4px solid rgb(179, 190, 210);
+    background-color: rgb(205, 210, 219);
+}
+
+.inp{
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+}
